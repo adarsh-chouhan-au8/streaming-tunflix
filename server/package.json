@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "dependencies": {
+        "nodemon": "^2.0.16"
+    }
+}

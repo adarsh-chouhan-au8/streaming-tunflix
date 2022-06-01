@@ -1,0 +1,3 @@
+node_modules/
+**/.env
+myec2key.pem
